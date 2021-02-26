@@ -6,9 +6,12 @@ output:
   pagedown::html_resume:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
-# uncomment this line to produce HTML and PDF in RStudio:
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 ---
+
+```{r, echo=F, warning=F}
+library(pagedown)
+```
 
 Aside
 ================================================================================
@@ -30,7 +33,7 @@ Contact Info {#contact}
 
 - Bred viden indenfor forskning -- fra laboratorieanalyser til klinisk RCT
 
-- Erfaring fra akutmodtagelse og skadestue, herunder hjertestophold på AMH
+- Erfaring fra akutmodtagelse og skadestue, herunder traumekald og hjertestop
 
 - 
 
@@ -55,133 +58,93 @@ Uddannelse {data-icon=graduation-cap data-concise=true}
 
 ### Københavns Universitet
 
-PhD-studerende
-
-Dansk Multipel Sklerose Center,
-Rigshospitalet Glostrup
-
-2018 - 2021
-
-Titel: Neuroimmunologisk dysregulering ved primær progressiv multipel sklerose
-
-### Københavns Universitet
-
 Kandidat i medicin
 
 København, Danmark
 
-2016
-
-
-Research Experience {data-icon=microscope}
---------------------------------------------------------------------------------
-
-### Graduate Research Assistant
-
-Beijing Institute of Genomics, Chinese Academy of Sciences
-
-Beijing, China
-
-2011 - 2014
-
-- Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
-- Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
-
-### Bioinformatican
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
-
-- Investigated how cancer cells spread to other parts of the body at the single cell level.
-
-### Visiting Scientist
-
-University of Alabama at Birmingham
-
-AL, USA
-
-2016 - 2018
-
-- Investigated the role of mitochondria in development of cancer.
-- Investigated the evolution of genome architecture and its role in important evolutionary events.
-- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
-  
+2016 - 2009
 
 Klinisk erfaring {data-icon=hospital}
 --------------------------------------------------------------------------------
 
-### Data Scientist, intern
+### Klinisk basisuddannelse
 
-SupStat Inc.
+Intern medicin / Ortopædkirurgi
 
-Beijing, China
+Amager og Hvidovre Hospital
 
-2014
-
-::: concise
-- Taught R language to beginners. 
-- Wrote Shiny app demos.
-- Converted statistical tutorials from SPSS to R language.
-:::
-
-### Bioinformatician
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
+2017 - 2016
 
 ::: concise
-- Analyzed whole-exome sequencing data. 
-- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
-- Studied tumor metastasis and wrote research reports. 
-- Also did case studies to identify the genetic defect causing rare disease.
+- Akutmodtagelse 
+- Skadestue
 :::
 
+### Reservelæge, uklassificeret
 
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
+Neurologisk afdeling
 
-### Introduction to R Language for Beginners.
+Bispebjerg Hospital
 
-Instructor of R and Data Mining Training Courses at SupStat Inc.
+2016
 
-Beijing, China
+### Reservelægevikar
 
-2014
+Ortopædkirurgisk afdeling
 
-### Computational Biology and Bioinformatics.
+Nykøbing Falster Sygehus
 
-Teaching assistant of GBS CB2-201 courses at UAB
+2013 - 2012
 
-AL, USA
+Forskning {data-icon=brain}
 
-2016 - 2017
+### Ventilatør
 
-
-Selected Publications and Posters {data-icon=file}
---------------------------------------------------------------------------------
-
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
-
-Poster for 2013 International Conference of Genomics
-
-Qingdao, China
-
-2014
-
-**Yu L**, Chen B, Zhang Z.
-
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
-
-J Cell Sci. 2016 May 15;129(10):2075-84.
+FADL
 
 N/A
 
-2016 
+2011 - 2014
 
-Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
+
+Forskning {data-icon=microscope}
+--------------------------------------------------------------------------------
+
+### PhD studerende
+
+Dansk Multipel Sklerose Center
+
+Rigshospitalet Glostrup
+
+2021 - 2018
+
+Titel: Neuroimmunologisk dysregulering ved primær progressiv multipel sklerose
+
+
+::: concise
+- Primary investigator på randomiseret dobbelt-blindet forsøg. Laboratorieanalyser af blod og cerebrospinalvæske.
+- Opdagelse af ny markør, som kan prædiktere læsioner hos patienter med progressiv multipel sklerose.
+:::
+
+### Forskningsårsstuderende
+
+Dansk Multipel Sklerose Center
+
+Rigshospitalet, Blegdamsvej
+
+2016 - 2015
+
+- Immunologiske analyser af humane mesenkymale stamceller.
+
+Publikationer {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Dimethyl fumarate treatment in primary progressive multiple sclerosis: a randomized controlled phase 2 trial.
+
+Talbot J, Chow H et al.
+
+N/A
+
+2020
+
+Under review.
