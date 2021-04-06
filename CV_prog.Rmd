@@ -16,35 +16,48 @@ library(pagedown)
 Aside
 ================================================================================
 
-
 ![Jacob Lando Talbot](https://github.com/talbotjl){width=80%}
-
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> jacob.lando.talbot@regionh.com
-- <i class="fa fa-github"></i> [github.com/talbotjl](https://github.com/talbotjl)
+- <i class="fa fa-envelope"></i> jtal0007@regionh.com
 - <i class="fa fa-phone"></i> +45 60653360 / 38633205
-- For more information, please contact me via email.
-
+- For more information, please contact me via email or phone.
+- <i class="fa fa-male">
 
 --------------------------------------------------------------------------------
 
-- Bred viden indenfor forskning -- fra laboratorieanalyser til klinisk RCT
 
-- Erfaring fra akutmodtagelse og skadestue, herunder traumekald og hjertestop
+::: concise
+# Medicinsk ekspert
+### Akutmodtagelse/skadestue
+### Hjertestophold
+### Stor erfaring med lumbalpunkturer
 
-- 
+# Kommunikator
+### 
 
+# Samarbejder
+### 
+
+# Leder
+### Koordineret randomiseret klinisk forsøg
+
+# Sundhedsfremmer
+### Medvirket til udarbejdelse af "Lægebog for Søfarende"
+
+# Akademiker
+### Planlægning, udførelse og afslutning af klinisk lægemiddelforsøg
+### Erfaring med laboratorieanalyser af biomarkører og celledyrkning
+
+# Professionel
+:::
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-
 Opdateret `r Sys.Date()`.
-
-
 
 Main
 ================================================================================
@@ -52,17 +65,6 @@ Main
 Jacob Lando Talbot {#title}
 --------------------------------------------------------------------------------
 
-
-Uddannelse {data-icon=graduation-cap data-concise=true}
---------------------------------------------------------------------------------
-
-### Københavns Universitet
-
-Kandidat i medicin
-
-København, Danmark
-
-2016 - 2009
 
 Klinisk erfaring {data-icon=hospital}
 --------------------------------------------------------------------------------
@@ -73,11 +75,11 @@ Intern medicin / Ortopædkirurgi
 
 Amager og Hvidovre Hospital
 
-2017 - 2016
+2018 - 2016
 
 ::: concise
-- Akutmodtagelse 
-- Skadestue
+- akutmodtagelse/skadestue
+- hjertestophold
 :::
 
 ### Reservelæge, uklassificeret
@@ -96,18 +98,53 @@ Nykøbing Falster Sygehus
 
 2013 - 2012
 
-Forskning {data-icon=brain}
-
 ### Ventilatør
 
 FADL
 
 N/A
 
-2011 - 2014
+2012 - 2010
 
+Uddannelse {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
 
-Forskning {data-icon=microscope}
+### Kandidat i medicin
+
+N/A
+
+Københavns Universitet
+
+2016 - 2009
+
+Øvrig uddannelse {data-icon=}
+--------------------------------------------------------------------------------
+
+### 2 dages observatør ved lægeambulancen
+
+N/A
+
+N/A
+
+N/A
+
+### CEKU kursus i suturering (del 1)
+
+N/A
+
+N/A
+
+N/A
+
+### Summer school, internal medicine
+
+N/A
+
+Københavns Universitet
+
+2015
+
+Forskning {data-icon=molecule}
 --------------------------------------------------------------------------------
 
 ### PhD studerende
@@ -116,14 +153,13 @@ Dansk Multipel Sklerose Center
 
 Rigshospitalet Glostrup
 
-2021 - 2018
+2021 - 2018   
 
 Titel: Neuroimmunologisk dysregulering ved primær progressiv multipel sklerose
 
-
 ::: concise
 - Primary investigator på randomiseret dobbelt-blindet forsøg. Laboratorieanalyser af blod og cerebrospinalvæske.
-- Opdagelse af ny markør, som kan prædiktere læsioner hos patienter med progressiv multipel sklerose.
+- Opdagelse af ny markør, som måske kan prædiktere læsioner hos patienter med progressiv multipel sklerose.
 :::
 
 ### Forskningsårsstuderende
