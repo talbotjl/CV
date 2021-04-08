@@ -7,6 +7,8 @@ output:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
 knit: pagedown::chrome_print
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r, echo=F, warning=F}
@@ -16,48 +18,50 @@ library(pagedown)
 Aside
 ================================================================================
 
-![Jacob Lando Talbot](https://github.com/talbotjl){width=80%}
-
-Contact Info {#contact}
+Kontakt {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> jtal0007@regionh.com
+- <i class="fa fa-envelope"></i> jtal0007@regionh.dk
 - <i class="fa fa-phone"></i> +45 60653360 / 38633205
-- For more information, please contact me via email or phone.
-- <i class="fa fa-male">
+- <i class="fa fa-user-circle"></i> 33 år, gift, 2 børn (3 og 4 år)
 
 --------------------------------------------------------------------------------
 
+* **Medicinsk ekspert**
+- *Erfaring indenfor intern medicin og kirurgi*
+- *Hjertestophold*
+- *Lumbalpunkturer*
+- *Suturering*
+- *Pleuradræn*
+- *Trakeostomipleje*
+- *Allergivaccination og anafylaksibehandling*
 
-::: concise
-# Medicinsk ekspert
-### Akutmodtagelse/skadestue
-### Hjertestophold
-### Stor erfaring med lumbalpunkturer
+* **Kommunikator**
++ *Undervisning af stud. med.*
++ *Tutor på medicinstudiet*
++ *Initiativ og udførelse af excelkursus for medicinstuderende*
 
-# Kommunikator
-### 
+* **Samarbejder**
++ *Skadestue*
++ *Akutmodtagelse*
++ *DC-konvertering*
 
-# Samarbejder
-### 
+* **Leder**
++ *Primær investigator single-center RCT*
++ *Superviseret traumeleder*
 
-# Leder
-### Koordineret randomiseret klinisk forsøg
+* **Sundhedsfremmer**
++ *Medvirket til udarbejdelse af "Lægebog for Søfarende"*
 
-# Sundhedsfremmer
-### Medvirket til udarbejdelse af "Lægebog for Søfarende"
+* **Akademiker**
++ *Planlægning, udførelse og afslutning af klinisk lægemiddelforsøg*
++ *Erfaring med laboratorieanalyser af biomarkører og celledyrkning*
++ *Data analyse og programmering i R*
 
-# Akademiker
-### Planlægning, udførelse og afslutning af klinisk lægemiddelforsøg
-### Erfaring med laboratorieanalyser af biomarkører og celledyrkning
-
-# Professionel
-:::
+* **Professionel**
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
-
-Opdateret `r Sys.Date()`.
 
 Main
 ================================================================================
@@ -65,8 +69,7 @@ Main
 Jacob Lando Talbot {#title}
 --------------------------------------------------------------------------------
 
-
-Klinisk erfaring {data-icon=hospital}
+Klinik {data-icon=hospital}
 --------------------------------------------------------------------------------
 
 ### Klinisk basisuddannelse
@@ -77,11 +80,6 @@ Amager og Hvidovre Hospital
 
 2018 - 2016
 
-::: concise
-- akutmodtagelse/skadestue
-- hjertestophold
-:::
-
 ### Reservelæge, uklassificeret
 
 Neurologisk afdeling
@@ -89,6 +87,14 @@ Neurologisk afdeling
 Bispebjerg Hospital
 
 2016
+
+### Studentermedhjælper
+
+Lunge- og allergiklinikken
+
+Charlottenlund
+
+2016 - 2013
 
 ### Reservelægevikar
 
@@ -106,7 +112,7 @@ N/A
 
 2012 - 2010
 
-Uddannelse {data-icon=graduation-cap data-concise=true}
+Uddannelse / kurser {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
 
 ### Kandidat i medicin
@@ -117,24 +123,37 @@ Københavns Universitet
 
 2016 - 2009
 
-Øvrig uddannelse {data-icon=}
---------------------------------------------------------------------------------
+### Kursus i suturering (del 1)
+
+N/A
+
+CEKU
+
+2017
+
+### Kursus i trakeostomi
+
+N/A
+
+CEKU
+
+2017
+
+### Kursus i lumbalpunktur
+
+N/A
+
+CEKU
+
+2017
 
 ### 2 dages observatør ved lægeambulancen
 
 N/A
 
-N/A
+AMK
 
-N/A
-
-### CEKU kursus i suturering (del 1)
-
-N/A
-
-N/A
-
-N/A
+2015
 
 ### Summer school, internal medicine
 
@@ -144,7 +163,7 @@ Københavns Universitet
 
 2015
 
-Forskning {data-icon=molecule}
+Forskning {data-icon = microscope}
 --------------------------------------------------------------------------------
 
 ### PhD studerende
@@ -155,12 +174,7 @@ Rigshospitalet Glostrup
 
 2021 - 2018   
 
-Titel: Neuroimmunologisk dysregulering ved primær progressiv multipel sklerose
-
-::: concise
-- Primary investigator på randomiseret dobbelt-blindet forsøg. Laboratorieanalyser af blod og cerebrospinalvæske.
-- Opdagelse af ny markør, som måske kan prædiktere læsioner hos patienter med progressiv multipel sklerose.
-:::
+Neuroimmunologisk dysregulering ved primær progressiv multipel sklerose
 
 ### Forskningsårsstuderende
 
@@ -172,7 +186,7 @@ Rigshospitalet, Blegdamsvej
 
 - Immunologiske analyser af humane mesenkymale stamceller.
 
-Publikationer {data-icon=file}
+Publikationer {data-icon = file data-concise=TRUE}
 --------------------------------------------------------------------------------
 
 ### Dimethyl fumarate treatment in primary progressive multiple sclerosis: a randomized controlled phase 2 trial.
