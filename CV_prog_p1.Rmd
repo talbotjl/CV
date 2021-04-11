@@ -1,0 +1,180 @@
+---
+title: "Jacob Talbot"
+author: J Talbot
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+knit: pagedown::chrome_print
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r, echo=F, warning=F}
+library(pagedown)
+```
+
+Aside
+================================================================================
+Kontakt {#contact}
+--------------------------------------------------------------------------------
+- <i class="fa fa-envelope"></i> jtal0007@regionh.dk
+- <i class="fa fa-phone"></i> +45 60653360 / 38633205
+- <i class="fa fa-user-circle"></i> 33 år, gift, 2 børn (3 og 4 år)
+- <i class="fa fa-user-bike"></i> 
+- referencer udleveres ved forespørgsel
+--------------------------------------------------------------------------------
+* **Medicinsk ekspert**
+- *Erfaring indenfor intern medicin og kirurgi*
+- *Hjertestophold*
+- *Lumbalpunkturer*
+- *Suturering*
+- *Pleuradræn*
+- *Trakeostomipleje*
+- *Allergivaccination og anafylaksibehandling*
+* **Akademiker**
++ *Planlægning, udførelse og afslutning af klinisk lægemiddelforsøg*
++ *Laboratoriearbejde*
++ *Data analyse og programmering i R*
+* **Kommunikator**
++ *Undervisning af stud. med.*
++ *Tutor på medicinstudiet*
++ *Initiativ og udførelse af introkursus for medicinstuderende*
+* **Leder**
++ *Primær investigator single-center RCT*
++ *Superviseret traumeleder*
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Main
+================================================================================
+
+Jacob Lando Talbot {#title}
+--------------------------------------------------------------------------------
+
+Klinik {data-icon=hospital}
+--------------------------------------------------------------------------------
+
+### Klinisk basisuddannelse
+
+Intern medicin / Ortopædkirurgi
+
+Amager og Hvidovre Hospital
+
+2018 - 2016
+
+### Reservelæge, uklassificeret
+
+Neurologisk afdeling
+
+Bispebjerg Hospital
+
+2016
+
+### Studentermedhjælper
+
+Lunge- og allergiklinikken
+
+Charlottenlund
+
+2016 - 2013
+
+### Reservelægevikar
+
+Ortopædkirurgisk afdeling
+
+Nykøbing Falster Sygehus
+
+2013 - 2012
+
+### Ventilatør
+
+N/A
+
+FADL
+
+2012 - 2010
+
+### Studentermedhjælper
+
+Neurofysiologisk afdeling
+
+Rigshospitalet
+
+2014 - 2011
+
+Uddannelse / kurser {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+
+### Læge, Msc i medicin
+
+N/A
+
+Københavns Universitet
+
+2016 - 2009
+
+### Kursus i suturering (del 1)
+
+N/A
+
+CEKU
+
+2017
+
+### Kursus i trakeostomi
+
+N/A
+
+CEKU
+
+2017
+
+### Kursus i lumbalpunktur
+
+N/A
+
+CEKU
+
+2017
+
+### 2 dages observatør ved lægeambulancen
+
+N/A
+
+AMK
+
+2015
+
+### Summer school, internal medicine
+
+N/A
+
+Københavns Universitet
+
+2015
+
+Forskning {data-icon = microscope}
+--------------------------------------------------------------------------------
+
+### PhD studerende
+
+Dansk Multipel Sklerose Center
+
+Rigshospitalet Glostrup
+
+2021 - 2018   
+
+*Neuroimmunologisk dysregulering ved progressiv multipel sklerose*
+
+### Forskningsårsstuderende
+
+Dansk Multipel Sklerose Center
+
+Rigshospitalet, Blegdamsvej
+
+2016 - 2015
+
+- Immunologiske analyser af humane mesenkymale stamceller.

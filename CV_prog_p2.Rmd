@@ -1,0 +1,39 @@
+---
+title: "Jacob Talbot"
+author: J Talbot
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+knit: pagedown::chrome_print
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r, echo=F, warning=F}
+library(pagedown)
+```
+
+Aside
+================================================================================
+* **Samarbejder**
++ *Skadestue*
++ *Akutmodtagelse*
++ *DC-konvertering*
+* **Sundhedsfremmer**
++ *Medvirket til udarbejdelse af "Lægebog for Søfarende"*
+* **Professionel**
+
+Publikationer {data-icon = file data-concise=TRUE}
+--------------------------------------------------------------------------------
+
+### Dimethyl fumarate treatment in primary progressive multiple sclerosis: a randomized controlled phase 2 trial.
+
+Talbot J, Chow H et al.
+
+N/A
+
+2020
+
+Under review.
